@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/not8311/reactrouter1/static/css/main.be1d6b0e.css",
+    "main.js": "/not8311/reactrouter1/static/js/main.aa769a5d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/not8311/reactrouter1/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/not8311/reactrouter1/index.html",
+    "main.be1d6b0e.css.map": "/not8311/reactrouter1/static/css/main.be1d6b0e.css.map",
+    "main.aa769a5d.js.map": "/not8311/reactrouter1/static/js/main.aa769a5d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/not8311/reactrouter1/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be1d6b0e.css",
+    "static/js/main.aa769a5d.js"
+  ]
+}
